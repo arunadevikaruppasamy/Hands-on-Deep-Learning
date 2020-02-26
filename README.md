@@ -1,3 +1,3 @@
 # Deep-Learning
-This repository contains my implementations of deep learning algorithms.
+This repository contains codes that I write to train deep learning frameworks for different applications.
 
